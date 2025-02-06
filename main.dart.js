@@ -40086,7 +40086,7 @@ di(){var s=0,r=A.D(t.H),q=this,p
 var $async$di=A.x(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:p=$.aqU()
 s=2
-return A.w(A.aob(p,null),$async$di)
+return A.w(A.aob(p,""),$async$di)
 case 2:s=3
 return A.w(p.w3("my_products",t.f),$async$di)
 case 3:q.a=b
